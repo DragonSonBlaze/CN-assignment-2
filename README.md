@@ -6,12 +6,12 @@ This is the solution for computer networks assignment 2 done by Manav Parmar ( 2
 Prerequisites:
 Installed Mininet and python on the system.
 
-Running the topology
+Running the topology:
 1. Save the provided python-script on your system
 2. Navigate to the directory where this file is, and in the terminal, write 
 sudo python <Saved_name_of_the_provided_code>.py
 
-Exploring Topology
+Exploring Topology:
 This network consists of three routers (r1,r2 and r3), which can be explored with mininet CLI through
 <name of the router > route
 example: r1 route
