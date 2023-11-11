@@ -30,6 +30,14 @@ r1 kill %tcpdump
 
 # How to run Q2 code
 
+Prerequisites:
+Installed and compatible Mininet and iperf tool.
+
+Running the code:
+sudo <Saved_name_of_the_provided_code>.py --config <b or c> --congestion <congestion_control_type> --loss <link_loss_value>
+
+
+
 
 
 
